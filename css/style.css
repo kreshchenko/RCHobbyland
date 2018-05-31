@@ -1,0 +1,147 @@
+body {
+    background-color: #ffffff ; /* Для старых браузров */
+    background: linear-gradient(to top, #888888, #337ab7 );
+    padding: 10px;
+}
+
+.container .row #verh {
+    margin-top: 42px;
+}
+
+.container .row{
+    margin-top: 50px;
+}
+
+.container{
+    box-shadow: 0 0 5px 2px #000000;
+}
+
+.indeximage{
+width: 100%;
+}
+ .indeximage img{
+    margin-top: 5px;
+    max-width: 90%;
+     max-height: 90%;
+     min-height: 130px;
+}
+
+.tovarname{
+    font-size: 16px;
+}
+
+.indexindextovar a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.tovarprice{
+    text-align: center;
+}
+
+
+.indexindextovar:hover{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+
+.indexindextovar:hover a{
+    color: #080808;
+}
+
+
+.indextovar a{
+    color: #080808;
+    text-decoration: none;
+}
+
+.indextovar:hover{
+    background-color: #d6e9c6;
+    border-radius: 10px;
+}
+
+.indextovar:hover a{
+    color: #080808;
+}
+
+.slideimg {
+    width: 100%;
+}
+
+.contacts{
+    border-radius: 10px;
+    background-color: #262626;
+    color: #ffffff;
+    text-indent: 8px;
+    height: 100px;
+}
+
+    .contacts a{
+        text-decoration: none;
+        color: #ffffff;
+        margin-left: 3px;
+    }
+    .contacts a:hover{
+        text-decoration: none;
+        color: #d6e9c6;
+    }
+    .contacts span{
+        margin-left: 3px;
+    }
+
+
+.slider_vs_contacts{
+    margin-top: -69px;
+}
+
+.socseti{
+    float: right;
+}
+
+.gradient{
+    background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, rgba(30,87,153,0), rgba(30,87,153,0.8), rgba(30,87,153,1),
+    rgba(30,87,153,1), rgba(41,137,216,1), rgba(30,87,153,1), rgba(30,87,153,1),
+    rgba(30,87,153,0.8),rgba(30,87,153,0));
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 10px;
+}
+
+
+
+.filters {
+    background-color: rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+}
+
+.indextovar{
+    width: 244px;
+}
+
+#blink1 {
+    font-size: 20px;
+}
+
+.orderbutton a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.orderbutton a:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.dostavkaimage{
+    opacity: 0.5;
+}
+
+.dostavkaimage:hover{
+    opacity: 1;
+}
+
+.addorders {
+    font-size: 20px;
+}
